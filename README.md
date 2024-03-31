@@ -30,7 +30,7 @@
 
 - Quit Ripcord completely.
 - Replace `twemoji.ripdb` with [this](https://github.com/cool-dev-code/ripcord/releases) file.
-- Now Open Ripcord.
+- Now Open **Ripcord**.
 - You are Done. Enjoy :)
 
 ---
