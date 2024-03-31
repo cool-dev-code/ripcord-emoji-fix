@@ -14,8 +14,9 @@
 - 😎 Emojis `Twemoji` (2024 Windows 11 version)
 
 ## 📜 Change logs:
-- Changed classic styled emojis to discords styled (twemoji)
-- Fixed textures of some emojis (Same as in the newer version of Discord)
+- ✅ Changed classic styled emojis to discords styled (twemoji).
+- ✅ Fixed textures of some emojis (Same as in the newer version of Discord).
+- ✅ Fixed one emoji split into multiple emojis.
 
 ## ❌ Missing:
 
