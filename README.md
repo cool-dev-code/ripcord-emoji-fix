@@ -13,19 +13,19 @@
 - 🪦 Ripcord version `0.4.29`
 - 😎 Emojis `Twemoji` (2024 Windows 11 version)
 
-## 📜 Change logs:
+## 📜 Changelog:
 - ✅ Changed classic styled emojis to discords styled (twemoji).
 - ✅ Fixed textures of some emojis (Same as in the newer version of Discord).
 - ✅ Fixed one emoji split into multiple emojis.
 
 ## ❌ Missing:
 
-- Some emojis are missing (😌 I won't add them. If u want you can add yourself)
+- Some emojis are missing (I will add them if I want 😌)
 ---
 
 ## ⚠️ Attention
 > **Note**
-> Using any client besides official Discord accounts violates the Tos of Discord. This could cause your Discord account to be permanently banned. I am not responsible for the risk involved.
+> Using any client besides official Discord accounts violates the ToS of Discord. This could cause your Discord account to be permanently banned. I am not responsible for the risk involved.
 
 ## ⬇️ How to get New Emojis:
 
