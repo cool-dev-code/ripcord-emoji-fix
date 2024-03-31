@@ -30,7 +30,7 @@
 ## ⬇️ How to get New Emojis:
 
 - Quit Ripcord completely.
-- Replace `twemoji.ripdb` with [this](https://github.com/cool-dev-code/ripcord-emoji-fix/releases) file.
+- Replace `twemoji.ripdb` file in the Ripcord folder with [this](https://github.com/cool-dev-code/ripcord-emoji-fix/releases) file.
 - Now Open **Ripcord**.
 - You are Done. Enjoy :)
 
