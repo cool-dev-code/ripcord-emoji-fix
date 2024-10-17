@@ -5,7 +5,7 @@
 - Classic style emojis
 - One emoji shown as more than one emoji
 - Unsupported emojis on Ripcord
-- 
+- Short forms not sending emojis
 ---
 
 ## ✨ Version:
