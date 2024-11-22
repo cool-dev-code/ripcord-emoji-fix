@@ -10,9 +10,9 @@
 
 ## ✨ Version:
 
-> 🆕 Last Update Date: 17-Oct-24
+> 🆕 Last Update Date: 22-Nov-24
 - 🪦 Ripcord version `0.4.29`
-- 😎 Emojis `Twemoji` (2024 Windows 11 version)
+- 😎 Emojis `Twemoji` (X)
 
 ## 📜 Changelog:
 - ✅ Changed classic styled emojis to discord's native style (twemoji).
