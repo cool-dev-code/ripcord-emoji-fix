@@ -2,8 +2,8 @@
 ---
 
 > **This** fixes
-- Classic style emojis
-- One emoji shown as more than one emoji
+- Classic styled emojis
+- One emoji shown as more than one emojis
 - Unsupported emojis on Ripcord
 - Short forms not sending emojis
 ---
